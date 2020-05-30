@@ -1,0 +1,4 @@
+{
+    "ruby.rubocop.executePath": "/usr/local/bundle/bin/",
+    "solargraph.commandPath": "/usr/local/bundle/bin/solargraph"    
+}

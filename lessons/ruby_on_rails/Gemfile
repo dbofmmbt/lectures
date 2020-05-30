@@ -1,0 +1,14 @@
+# frozen_string_literal: true
+
+source 'https://rubygems.org'
+
+ruby '~> 2.7'
+
+gem 'rspec', group: %i[development test]
+
+group :development do
+  gem 'debase'
+  gem 'rubocop'
+  gem 'ruby-debug-ide'
+  gem 'solargraph'
+end
